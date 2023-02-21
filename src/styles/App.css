@@ -1,0 +1,5 @@
+.cls-catal{
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid 4px blue;
+}

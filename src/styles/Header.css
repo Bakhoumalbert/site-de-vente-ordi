@@ -1,0 +1,19 @@
+.lcs-header{
+    color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 4px blue;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.lcs-title{
+    color: blue;
+    text-align: right;
+}
+
+.lcs-logo{
+    border: 12pc;
+}
